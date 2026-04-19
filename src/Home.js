@@ -11,8 +11,8 @@ function Home() {
       </p>
 
       <div className="hero-buttons">
-        <a href="#projects" className="btn">View Work</a>
-        <a href="#contact" className="btn-outline">Contact</a>
+        <a href="/#projects" className="btn">View Work</a>
+        <a href="/#contact" className="btn-outline">Contact</a>
       </div>
     </section>
   );

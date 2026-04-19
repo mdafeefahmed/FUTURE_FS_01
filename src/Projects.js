@@ -10,8 +10,8 @@ function Projects() {
           <p>Modern portfolio built with React</p>
           <div className="tech">React • CSS</div>
           <div className="links">
-            <a href="#">Live</a>
-            <a href="#">GitHub</a>
+            <a href="/">Live</a>
+            <a href="https://github.com/mdafeefahmed">GitHub</a>
           </div>
         </div>
 
@@ -20,8 +20,8 @@ function Projects() {
           <p>Manage daily tasks efficiently</p>
           <div className="tech">JavaScript</div>
           <div className="links">
-            <a href="#">Live</a>
-            <a href="#">GitHub</a>
+            <a href="/">Live</a>
+            <a href="https://github.com/mdafeefahmed">GitHub</a>
           </div>
         </div>
 

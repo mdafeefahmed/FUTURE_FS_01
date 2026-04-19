@@ -5,7 +5,7 @@ function Contact() {
 
       <p>Let’s work together or connect.</p>
 
-      <a href="afeefamerica@gmail.com" className="btn">
+      <a href="mailto:afeefamerica@gmail.com" className="btn">
         Send Email
       </a>
     </section>
